@@ -2,7 +2,7 @@
 <hr />
 <p>PDLISP is PureData object for Lisp programmer.<br />
 It include codes from pdlua.<br />
-also, I include ecl header files. because name conflict.(pd and ecl).<br />
+also, It include ecl header files. because name conflict.(pd and ecl).<br />
 I can't avoid this problem. so I modified ecl's header file.<br />
 </p>
 
