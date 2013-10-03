@@ -19,7 +19,7 @@ I don't have Window programming skill.
 <p> Requires : <br />
 &nbsp; &nbsp;PD or PD-extended and PD sources - http://puredata.info <br />
 &nbsp; &nbsp;ECL(Embeddable Common Lisp) - http://ecls.sourceforge.net<br />
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;..(I build ECL for static version. use without-shared options)
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;..(I build ECL for static version. use disable-shared options)
 </p>
 <p>  install :<br />
 &nbsp; &nbsp;You must set environment variables PD_INCLUDE and ECL_LIBS.<br />
