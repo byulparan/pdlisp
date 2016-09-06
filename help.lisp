@@ -1,4 +1,3 @@
-
 (defclass foo (pdlisp)
   ((inlets :initform 2 :reader inlets)
    (outlets :initform 2 :reader outlets)
