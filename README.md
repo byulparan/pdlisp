@@ -10,11 +10,6 @@ I can't avoid this problem. so I modified ecl's header file.<br />
 I don't have Window programming skill.
 </p>
 
-<p>Binary(only i386)<br />
-&nbsp; &nbsp;&nbsp; &nbsp;OSX &nbsp; :  https://dl.dropboxusercontent.com/u/23310809/pdlisp-darwin.tar <br />
-&nbsp; &nbsp;&nbsp; &nbsp;Linux : https://dl.dropboxusercontent.com/u/23310809/pdlisp-linux.tar<br />
-</p>
-
 <p> If you want build from sources...</p>
 <p> Requires : <br />
 &nbsp; &nbsp;PD or PD-extended and PD sources - http://puredata.info <br />
